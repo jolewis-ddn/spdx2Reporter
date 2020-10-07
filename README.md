@@ -22,4 +22,4 @@ jolewis-ddn
 
 ## License
 
-See (LICENSE.md)[LICENSE.md]
+See [LICENSE.md](LICENSE.md)
